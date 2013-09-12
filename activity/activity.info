@@ -1,0 +1,8 @@
+[Activity]
+name = Classroom Discover
+summary = Tool to discover teacher and kids in the classroom
+activity_version = 1
+bundle_id = org.sugarlabs.ClassroomDiscover
+exec = sugar-activity activity.ClassroomDiscover
+icon = classroom-discover
+license = GPLv3+
